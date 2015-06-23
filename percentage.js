@@ -15,7 +15,6 @@ var loaderInterval = setInterval(function() {
 
 
 /*
-
 HTML:
 <div class="progress-bar main"></div>
 
