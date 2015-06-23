@@ -12,3 +12,19 @@ var loaderInterval = setInterval(function() {
 		$(counter).remove();
 	}
 }, 100);
+
+
+/*
+
+HTML:
+<div class="progress-bar main"></div>
+
+CSS:
+.counter {
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 9;
+	cursor: pointer;
+}
+*/
